@@ -33,7 +33,7 @@ const TodoItem = ({ todoItem }) => {
     >
       <textarea
         className={twMerge(
-          "py-2 bg-transparent border-none w-3/5",
+          "py-2 bg-transparent border-none w-3/5 resize-none",
           "rounded-md outline-none mr-auto"
         )}
         type="text "
