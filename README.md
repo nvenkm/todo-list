@@ -49,7 +49,7 @@ Make sure you have Node.js and npm (or yarn) installed on your machine.
    ```bash
    yarn dev
    ```
-2. Open your browser and go to `http://localhost:3000` to see the application in action.
+2. Open your browser and go to `http://localhost:5173` to see the application in action.
 
 ### Building for Production
 
