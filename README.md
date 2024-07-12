@@ -1,7 +1,3 @@
-Here's a README for your React+Vite project with a Todo Assignment theme:
-
----
-
 # Todo Assignment
 
 This is a Todo List application with CRUD (Create, Read, Update, Delete) features built using React and Vite, Redux, Material Ui
